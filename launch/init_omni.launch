@@ -1,0 +1,12 @@
+<launch>
+
+    <group ns="rasp_control">
+        <node pkg="control_omni" name="control_general" type="control_central.py"/>
+
+
+    </group>
+
+
+
+</launch>
+

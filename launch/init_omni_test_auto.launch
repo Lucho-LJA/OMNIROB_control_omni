@@ -1,0 +1,12 @@
+<launch>
+
+    <group ns="rasp_control">
+        <node pkg="control_omni" name="test_control_auto" type="test_omni_auto.py"/>
+
+
+    </group>
+
+
+
+</launch>
+
